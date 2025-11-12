@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ramkamal
-- 👀 I’m interested in coding.
-- 🌱 I’m currently learning python.
+- 👀 I’m looking for projects.
+- 🌱 I’m proficient in python.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ramkamal452@gmail.com
 
